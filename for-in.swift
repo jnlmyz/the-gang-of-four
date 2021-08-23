@@ -1,10 +1,3 @@
-//Iterator Pattern
-//何かがたくさん集まっているときに、それを順番に指し示していき、全体をスキャンしていく処理
-
-
-
-
-
 
 //for-in swfitの使い方
 let names = ["Anna","Alex","Brain","Jack"]
